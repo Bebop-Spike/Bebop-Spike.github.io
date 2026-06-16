@@ -1,6 +1,5 @@
 # Ruoyu Wang | Resume Homepage
 
-This repository hosts my personal resume homepage with GitHub Pages.
 
 Website: https://bebop-spike.github.io/
 
